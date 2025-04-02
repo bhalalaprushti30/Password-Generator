@@ -11,7 +11,8 @@ Generate **secure passwords**, customize length & characters, copy to clipboard,
 ---
 
 ## 📸 Screenshot
-![Uploading Screenshot 2025-03-29 215708.png…]()
+![Screenshot 2025-03-29 215708](https://github.com/user-attachments/assets/1f2d0014-7485-450b-9ae4-d54c1eca3cb7)
+
 
 
 ---
